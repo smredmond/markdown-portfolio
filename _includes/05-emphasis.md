@@ -1,3 +1,1 @@
-* **SAM2** 
-* *Learning **strategies***
-* *Curriculum Development*
+**SAM2** *Learning* **strategies** **Curriculum Development**
