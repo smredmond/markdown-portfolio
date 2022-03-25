@@ -1,1 +1,1 @@
-[GitHub for smredmond](http://github.com/smredmond)
+[@smredmond GitHub Profile](https://github.com/smredmond)
